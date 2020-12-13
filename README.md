@@ -51,4 +51,4 @@ Using jupyter-gmaps and the Google places API for this part.
 
   ![hotel map](Images/hotel_map.png)
 
-### Navi Sohi | Data Analycis
+  # Navi Sohi | Data Analytics & Visualization
